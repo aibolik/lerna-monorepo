@@ -9,6 +9,8 @@
       "conventionalCommits": true
     },
     "publish": {
+      "allowBranch": "master",
+      "conventionalCommits": true,
       "registry": "http://localhost:4873/"
     }
   },
