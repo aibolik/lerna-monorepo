@@ -1,0 +1,14 @@
+{
+  "name": "@scope/cookbook-ios",
+  "version": "1.1.0",
+  "publishConfig": {
+    "access": "public",
+    "registry": "http://localhost:4873/",
+    "tag": "latest"
+  },
+  "files": [
+    "lib"
+  ],
+  "author": "Aibol Kussain <aibol.kussain@quandoo.com>",
+  "license": "MIT"
+}
