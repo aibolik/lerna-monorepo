@@ -6,12 +6,14 @@
   "command": {
     "version": {
       "allowBranch": "master",
-      "conventionalCommits": true
+      "conventionalCommits": true,
+      "message": "chore(release): %s"
     },
     "publish": {
       "allowBranch": "master",
       "conventionalCommits": true,
-      "registry": "http://localhost:4873/"
+      "registry": "http://localhost:4873/",
+      "message": "chore(release): %s"
     }
   },
   "version": "1.0.1"
