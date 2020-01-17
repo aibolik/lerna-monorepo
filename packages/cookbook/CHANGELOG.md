@@ -3,6 +3,17 @@
 All notable changes to this project will be documented in this file.
 See [Conventional Commits](https://conventionalcommits.org) for commit guidelines.
 
+## [1.2.1](https://github.com/aibolik/lerna-monorepo/compare/v1.2.0...v1.2.1) (2020-01-17)
+
+
+### Bug Fixes
+
+* **button:** update button component ([e063fba](https://github.com/aibolik/lerna-monorepo/commit/e063fbac2ee0dd78dac5636b8391eb6bf4446b36))
+
+
+
+
+
 # [1.1.0](https://github.com/aibolik/lerna-monorepo/compare/v1.0.2...v1.1.0) (2020-01-17)
 
 
