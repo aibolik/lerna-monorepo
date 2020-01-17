@@ -4,10 +4,11 @@
   "publishConfig": {
     "access": "public",
     "registry": "http://localhost:4873/",
-    "tag": "latest",
-    "directory": "lib"
+    "tag": "latest"
   },
   "files": [
     "lib"
-  ]
+  ],
+  "author": "Aibol Kussain <aibol.kussain@quandoo.com>",
+  "license": "MIT"
 }

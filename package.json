@@ -10,7 +10,5 @@
   },
   "scripts": {
     "publish": "lerna publish"
-  },
-  "author": "Aibol Kussain <aibol.kussain@quandoo.com>",
-  "license": "MIT"
+  }
 }
