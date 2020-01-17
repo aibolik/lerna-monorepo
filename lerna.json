@@ -4,6 +4,10 @@
     "packages/*"
   ],
   "command": {
+    "version": {
+      "allowBranch": "master",
+      "conventionalCommits": true
+    },
     "publish": {
       "registry": "http://localhost:4873/"
     }

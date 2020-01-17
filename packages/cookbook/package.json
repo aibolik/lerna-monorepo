@@ -2,8 +2,10 @@
   "name": "@scope/cookbook",
   "version": "1.0.0",
   "publishConfig": {
+    "access": "public",
     "registry": "http://localhost:4873/",
-    "tag": "latest"
+    "tag": "latest",
+    "directory": "lib"
   },
   "files": [
     "lib"
