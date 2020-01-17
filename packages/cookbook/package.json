@@ -1,0 +1,11 @@
+{
+  "name": "@scope/cookbook",
+  "version": "1.0.0",
+  "publishConfig": {
+    "registry": "http://localhost:4873/",
+    "tag": "latest"
+  },
+  "files": [
+    "lib"
+  ]
+}
