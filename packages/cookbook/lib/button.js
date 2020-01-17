@@ -1,3 +1,3 @@
 module.exports = () => {
-  return `Button`;
+  return `Button component`;
 }
